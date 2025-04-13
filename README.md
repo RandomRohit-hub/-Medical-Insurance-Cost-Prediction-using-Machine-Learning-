@@ -9,7 +9,7 @@ https://8q2b8sdh7jkubabjusytaj.streamlit.app/
 
 
 
-This Streamlit web application predicts insurance costs based on user inputs using a linear regression model trained on real-world insurance data.
+This Streamlit web application predicts insurance costs based on user inputs using a linear regression model trained on real-world insurance data
 
 ## 🚀 Features
 
